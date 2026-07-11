@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is base64-utils?
-A CLI tool for base64 utils.
+Base64 Utils
 
 ## Dependencies?
 Python stdlib only.
