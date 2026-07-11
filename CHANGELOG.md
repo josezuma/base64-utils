@@ -2,4 +2,4 @@
 
 ## 1.0.0
 - Initial release
-- Base64 encode/decode CLI
+- Base64 Utils

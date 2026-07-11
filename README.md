@@ -1,6 +1,6 @@
 <div align=center>
   <h1>base64-utils</h1>
-  <p><em>Base64 encode/decode CLI</em></p>
+  <p><em>A CLI tool for base64 utils.</em></p>
   <p><a href=LICENSE><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt=License></a></p>
   <p><strong>Author:</strong> <a href=https://github.com/josezuma>Jose Zuma</a></p>
 </div>
@@ -10,15 +10,16 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/josezuma/base64-utils.git && cd base64-utils
-python3 scripts/encode.py 'Hello World'
+git clone https://github.com/josezuma/base64-utils.git
+cd base64-utils
+python3 scripts/cli.py --help
 ```
 
-## Usage
+## Features
 
-```bash
-python3 scripts/encode.py 'Hello World'
-```
+- Simple CLI interface
+- Python stdlib only — no dependencies
+- JSON output mode for pipelines
 
 ## License
 

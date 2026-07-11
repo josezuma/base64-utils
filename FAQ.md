@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is base64-utils?
-Base64 encode/decode CLI
+A CLI tool for base64 utils.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
